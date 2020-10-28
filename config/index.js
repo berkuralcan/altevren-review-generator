@@ -9,7 +9,7 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsPublicPath: '/altevren-review-generator/',
     proxyTable: {},
 
     // Various Dev Server settings
