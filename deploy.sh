@@ -14,6 +14,6 @@ git add -A
 git commit -m 'deploy'
 
 
-git push -f berkuralcan@github.com:<berkuralcan>/<altevren-review-generator>.git master:gh-pages
+git push -f git@github.com:berkuralcan/altevren-review-generator.git master:gh-pages
 
 cd -
