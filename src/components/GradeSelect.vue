@@ -97,7 +97,6 @@ export default {
 }
 
 .grade-image_details{
-    background-color: chartreuse;
     max-width: 500px;
 }
 
